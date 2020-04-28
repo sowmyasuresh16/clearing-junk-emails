@@ -1,0 +1,16 @@
+{
+  "name": "cleaning-gmail-inbox",
+  "version": "1.0.0",
+  "description": "An easy application to clear our gmail inbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Sowmya Suresh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "googleapis": "^39.2.0",
+    "n-readlines": "^1.0.0"
+  }
+}

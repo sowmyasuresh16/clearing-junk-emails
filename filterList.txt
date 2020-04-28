@@ -1,0 +1,11 @@
+from: alert@indeed.com
+from: jobmailer@naukri.com
+from: USPSInformedDelivery@usps.gov
+from: accenturerecruitment@goview.accenture.com
+from: info@myntra.com
+from: naukrialerts@naukri.com
+from: updates@academia-mail.com
+from: support@bankbazaar.com
+from: grad.admission@iit.edu
+from: renter-info@email.apartments.com
+from: no-reply@cibil.com
